@@ -1,0 +1,4 @@
+05-12-2025
+    I used OpenAI to generate a sample CRUD rest API featuring SpringBoot/Java.
+    It generated the ZIP springboot-sales-customer package, which is also uploaded here in this repository.
+    Next task is to enable this CRUD/Rest Project in Spring Boot
